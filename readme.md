@@ -10,3 +10,18 @@ The Sales Director of Atliq Hardware, a firm with multiple branches across India
 SOLUTION:
 
 Sales director decided to hire a group of analysts to build interactive PowerBI dashboards so that he can track sales to stay informed about the performance of the company and identify any potential issues or areas for improvement.
+
+APPROACH:
+
+AIMS GRID
+
+![AIMS GRID](https://user-images.githubusercontent.com/123969674/215749826-a84f6fc0-fa35-4f01-b7ab-2c08c457024f.png)
+
+
+DATA MODEL:
+
+![data model](https://user-images.githubusercontent.com/123969674/215749443-d197aac9-3070-4b76-9a02-98ed2d7466e3.jpg)
+
+DASHBOARD:
+![sales_insights - Power BI Desktop](https://user-images.githubusercontent.com/123969674/215749590-3b81534e-96ed-47ce-92c9-f9af6a3a0879.png)
+![sales_insights - Power BI Desktop2](https://user-images.githubusercontent.com/123969674/215749602-2e7b0de7-f2f3-4eb0-a258-c95105b0f5a2.png)
